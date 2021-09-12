@@ -46,4 +46,4 @@ Além do site, também foi desenvolvido o seu Mockup pelo Figma. https://www.fig
 
 O projeto também pode ser acessado pelo link abaixo
 
-babipadawan2.surge.sh
+https://babipadawan2.surge.sh/
